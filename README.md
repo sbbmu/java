@@ -49,4 +49,5 @@ Backup files for Java projects. Including:
       +  workspace/Welcome/notes/study/corejava/testStatic.class  
       +  workspace/Welcome/notes/study/corejava/testStatic.java  
       +  workspace/Welcome/Welcome.class  
-      +  workspace/Welcome/Welcome.java                                                                                                                            
+      +  workspace/Welcome/Welcome.java  
+      
